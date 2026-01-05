@@ -9,7 +9,7 @@
 マウスの動きに反応する美しいインタラクティブ粒子アートジェネレーター
 
 <p align="center">
-  <strong>✨ <a href="https://GAKU27.github.io/cosmic-particle-art/">デモを見る</a> ✨</strong>
+  <strong>✨ <a href="[(https://gaku27.github.io/cosmos/)]">デモを見る</a> ✨</strong>
 </p>
 
 ---
@@ -206,3 +206,4 @@ Made with ❤️ and ✨ JavaScript
 <p align="center">
 ⭐ このプロジェクトが気に入ったら、スターをつけてください！
 </p>
+
